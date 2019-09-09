@@ -280,17 +280,6 @@
 
         <v-card
           class="card">
-          <h2>Projects</h2>
-        </v-card>
-
-        </v-container>
-      </section>
-
-      <section class="top--wrapper">
-        <v-container>
-
-        <v-card
-          class="card">
           <h2>Awards</h2>
         </v-card>
 
