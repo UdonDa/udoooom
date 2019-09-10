@@ -74,6 +74,126 @@
 
         <v-card
           class="card">
+          <h2>Education</h2>
+
+          <v-card-text>
+            <v-layout justify-center class="content--publications" wrap>
+              <table>
+                <tr>
+                  <th class="content--tag">2016-2020</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>BE: Mechanical and Intelligent Systems Engineering, The University of Electro-Communications, Japan</th>
+                      </tr>
+                      <tr>
+                        <th>Adviser: <a href="https://scholar.google.com/citations?user=GfBhHw0AAAAJ&hl=ja" target="_blank" rel="noopener noreferrer">Prof. Keiji Yanai</a> and <a href="http://cluster-iperc.matrix.jp/wordpress/wp-content/uploads/2017/02/PI-CV-2017.pdf" target="_blank" rel="noopener noreferrer">Prof. Toma Sogabe</a>.</th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+
+              </table>
+            </v-layout>
+          </v-card-text>
+        </v-card>
+
+
+        </v-container>
+      </section>
+
+
+
+      <section class="top--wrapper">
+        <v-container>
+
+        <v-card
+          class="card">
+          <h2>Research and Work Experience</h2>
+
+          <v-card-text>
+            <v-layout justify-center class="content--publications" wrap>
+              <table>
+
+                <tr>
+                  <th class="content--tag">2019/6 ~ 2020/3</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>未踏IT人材発掘・育成事業：2019年度採択プロジェクト: VR空間における食体験の構築</th>
+                      </tr>
+                      <tr>
+                        <th>Project Manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Masahiko Inami</a></th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+                <tr>
+                  <th class="content--tag">2018/9 ~ 2019/3</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>Research Internship at <a href="https://tech.zozo.com/recruit/" target="_blank" rel="noopener noreferrer">ZOZO Technologies. Inc</a>, Tokyo, Japan.</th>
+                      </tr>
+                      <tr>
+                        <th>Skills: Python, Pytorch, Data visualization</th>
+                      </tr>
+                      <tr>
+                        Adviser: <a href="https://sites.google.com/view/hayatomaki" target="_blank" rel="noopener noreferrer">Hayato Maki</a>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+                <tr>
+                  <th class="content--tag">2017/12 ~ 2018/4</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>Web Software Engineer Internship at <a href="https://corp.retty.me/" target="_blank" rel="noopener noreferrer">Retty. Inc</a>, Tokyo, Japan.</th>
+                      </tr>
+                      <tr>
+                        <th>Skills: PHP, Laravel</th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+                <tr>
+                  <th class="content--tag">2017/5 ~ 2017/11</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>Drone Software Engineer Internship at <a href="https://corp.t-clue.com/" target="_blank" rel="noopener noreferrer">CLUE. Inc</a>, Tokyo, Japan.</th>
+                      </tr>
+                      <tr>
+                        <th>Skills: Python, ROS, OpenCV, Drone</th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+
+              </table>
+            </v-layout>
+          </v-card-text>
+        </v-card>
+
+
+        </v-container>
+      </section>
+
+
+
+
+
+      <section class="top--wrapper">
+        <v-container>
+
+        <v-card
+          class="card">
           <h2>Projects</h2>
         </v-card>
 
@@ -117,7 +237,7 @@
         <v-layout justify-center class="content--publications" wrap>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">SSA-GAN: End-to-End Time-Lapse Video Generation with Spatial Self-Attention</v-card-title>
+            <v-card-title class="content--work--title">[10] SSA-GAN: End-to-End Time-Lapse Video Generation with Spatial Self-Attention</v-card-title>
             <v-card-text>
               <p><u><b>Daichi Horita</b></u>, Keiji Yanai</p>
               <p>Proc. of The 5th Asian Conference on Pattern Recognition (ACPR), Auckland, New Zealand, (2019/11), (poster). Acceptance rate 45%.</p>
@@ -125,7 +245,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">DeepTaste: Augmented Reality Gustatory Manipulation with GAN-based Real-time Food-to-food Translation</v-card-title>
+            <v-card-title class="content--work--title">[9] DeepTaste: Augmented Reality Gustatory Manipulation with GAN-based Real-time Food-to-food Translation</v-card-title>
             <v-card-text>
               <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
               <p>Proc. of IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Beijing, China, (2019/10), (Oral). Acceptance rate TODO%.</p>
@@ -134,7 +254,7 @@
 
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Unseen Food Creation by Mixing Existing Food Images with Conditional StyleGAN</v-card-title>
+            <v-card-title class="content--work--title">[8] Unseen Food Creation by Mixing Existing Food Images with Conditional StyleGAN</v-card-title>
             <v-card-text>
               <p><u><b>Daichi Horita</b></u>, Keiji Yanai</p>
               <p>Proc. of ACMMM Workshop on Multimedia Assisted Dietary Management (MADIMA), Nice, France, (2019/10), (Oral).</p>
@@ -142,7 +262,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Large-scale Twitter Food Photo Mining and Its Applications</v-card-title>
+            <v-card-title class="content--work--title">[7] Large-scale Twitter Food Photo Mining and Its Applications</v-card-title>
             <v-card-text>
               <p>Keiji Yanai, Kaimu Okamoto, Tetsuya Nagano and <u><b>Daichi Horita</b></u></p>
               <p>Proc. of International Conference on Multimedia Big Data (BIGMM), Singapore, (2019/9), (invited paper).</p>
@@ -150,7 +270,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Enchanting Your Noodles: GAN-based Real-time Food-to-Food Translation and Its Impact on Vision-induced Gustatory Manipulation</v-card-title>
+            <v-card-title class="content--work--title">[6] Enchanting Your Noodles: GAN-based Real-time Food-to-Food Translation and Its Impact on Vision-induced Gustatory Manipulation</v-card-title>
             <v-card-text>
               <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
               <p>Proc. of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 1096-1097, Osaka, Japan, (2019/3) (poster).</p>
@@ -158,7 +278,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Enchanting Your Noodles: A Gustatory Manipulation Interface by Using GAN-based Real-time Food-to-Food Translation</v-card-title>
+            <v-card-title class="content--work--title">[5] Enchanting Your Noodles: A Gustatory Manipulation Interface by Using GAN-based Real-time Food-to-Food Translation</v-card-title>
             <v-card-text>
               <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
               <p>Proc. of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 1339-1340, Osaka, Japan, (2019/3) (demo).</p>
@@ -167,7 +287,7 @@
 
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Real-Time Image Classification and Transformation Apps on iOS by “Chainer2MPSNNGraph”</v-card-title>
+            <v-card-title class="content--work--title">[4] Real-Time Image Classification and Transformation Apps on iOS by “Chainer2MPSNNGraph”</v-card-title>
             <v-card-text>
               <p>Yuki Izumi, <u><b>Daichi Horita</b></u>, Ryosuke Tanno and Keiji Yanai</p>
               <p>Proc. of NIPS 2018 Workshop on Machine Learning on the Phone and other Consumer Devices (MLPCD), Motreal, Canada (2018/12).</p>
@@ -175,7 +295,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">CNN-based Photo Transformation for Improving Attractiveness of Ramen Photos</v-card-title>
+            <v-card-title class="content--work--title">[3] CNN-based Photo Transformation for Improving Attractiveness of Ramen Photos</v-card-title>
             <v-card-text>
               <p><u><b>Daichi Horita</b></u>, Jaehyeong Cho, Takumi Ege, Keiji Yanai</p>
               <p>Proc. of ACM Symposium on Virtual Reality Software and Technology (VRST), Tokyo, Japan, 115-116, (2018/11). (Poster paper).</p>
@@ -184,7 +304,7 @@
 
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Magical Rice Bowl: Real-time Food Category Changer</v-card-title>
+            <v-card-title class="content--work--title">[2] Magical Rice Bowl: Real-time Food Category Changer</v-card-title>
             <v-card-text>
               <p>Ryosuke Tanno, <u><b>Daichi Horita</b></u>, Wataru Shimoda and Keiji Yanai</p>
               <p>Proc. of ACM Multimedia, Seoul, Korea, 1244-1246, (2018/10). (Demo paper).</p>
@@ -192,7 +312,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Food Category Transfer with Conditional Cycle GAN and a Large-scale Food Image Dataset</v-card-title>
+            <v-card-title class="content--work--title">[1] Food Category Transfer with Conditional Cycle GAN and a Large-scale Food Image Dataset</v-card-title>
             <v-card-text>
               <p><u><b>Daichi Horita</b></u>, Ryosuke Tanno, Wataru Shimoda and Keiji Yanai</p>
               <p>Proc. of IJCAI Workshop on International Workshop on Multimedia Assisted Dietary Management (MADIMA), Stockholm, Sweden (2018/07).</p>
