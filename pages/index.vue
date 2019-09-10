@@ -74,6 +74,126 @@
 
         <v-card
           class="card">
+          <h2>Education</h2>
+
+          <v-card-text>
+            <v-layout justify-center class="content--publications" wrap>
+              <table>
+                <tr>
+                  <th class="content--tag">2016-2020</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>BE: Mechanical and Intelligent Systems Engineering, The University of Electro-Communications, Japan</th>
+                      </tr>
+                      <tr>
+                        <th>Adviser: <a href="https://scholar.google.com/citations?user=GfBhHw0AAAAJ&hl=ja" target="_blank" rel="noopener noreferrer">Prof. Keiji Yanai</a> and <a href="http://cluster-iperc.matrix.jp/wordpress/wp-content/uploads/2017/02/PI-CV-2017.pdf" target="_blank" rel="noopener noreferrer">Prof. Toma Sogabe</a>.</th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+
+              </table>
+            </v-layout>
+          </v-card-text>
+        </v-card>
+
+
+        </v-container>
+      </section>
+
+
+
+      <section class="top--wrapper">
+        <v-container>
+
+        <v-card
+          class="card">
+          <h2>Research and Work Experience</h2>
+
+          <v-card-text>
+            <v-layout justify-center class="content--publications" wrap>
+              <table>
+
+                <tr>
+                  <th class="content--tag">2019/6 ~ 2020/3</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>未踏IT人材発掘・育成事業：2019年度採択プロジェクト: VR空間における食体験の構築</th>
+                      </tr>
+                      <tr>
+                        <th>Project Manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Masahiko Inami</a></th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+                <tr>
+                  <th class="content--tag">2018/9 ~ 2019/3</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>Research Internship at <a href="https://tech.zozo.com/recruit/" target="_blank" rel="noopener noreferrer">ZOZO Technologies. Inc</a>, Tokyo, Japan.</th>
+                      </tr>
+                      <tr>
+                        <th>Skills: Python, Pytorch, Data visualization</th>
+                      </tr>
+                      <tr>
+                        Adviser: <a href="https://sites.google.com/view/hayatomaki" target="_blank" rel="noopener noreferrer">Hayato Maki</a>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+                <tr>
+                  <th class="content--tag">2017/12 ~ 2018/4</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>Web Software Engineer Internship at <a href="https://corp.retty.me/" target="_blank" rel="noopener noreferrer">Retty. Inc</a>, Tokyo, Japan.</th>
+                      </tr>
+                      <tr>
+                        <th>Skills: PHP, Laravel</th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+                <tr>
+                  <th class="content--tag">2017/5 ~ 2017/11</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>Drone Software Engineer Internship at <a href="https://corp.t-clue.com/" target="_blank" rel="noopener noreferrer">CLUE. Inc</a>, Tokyo, Japan.</th>
+                      </tr>
+                      <tr>
+                        <th>Skills: Python, ROS, OpenCV, Drone</th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+
+
+              </table>
+            </v-layout>
+          </v-card-text>
+        </v-card>
+
+
+        </v-container>
+      </section>
+
+
+
+
+
+      <section class="top--wrapper">
+        <v-container>
+
+        <v-card
+          class="card">
           <h2>Projects</h2>
         </v-card>
 
