@@ -237,7 +237,7 @@
         <v-layout justify-center class="content--publications" wrap>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">SSA-GAN: End-to-End Time-Lapse Video Generation with Spatial Self-Attention</v-card-title>
+            <v-card-title class="content--work--title">[10] SSA-GAN: End-to-End Time-Lapse Video Generation with Spatial Self-Attention</v-card-title>
             <v-card-text>
               <p><u><b>Daichi Horita</b></u>, Keiji Yanai</p>
               <p>Proc. of The 5th Asian Conference on Pattern Recognition (ACPR), Auckland, New Zealand, (2019/11), (poster). Acceptance rate 45%.</p>
@@ -245,7 +245,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">DeepTaste: Augmented Reality Gustatory Manipulation with GAN-based Real-time Food-to-food Translation</v-card-title>
+            <v-card-title class="content--work--title">[9] DeepTaste: Augmented Reality Gustatory Manipulation with GAN-based Real-time Food-to-food Translation</v-card-title>
             <v-card-text>
               <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
               <p>Proc. of IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Beijing, China, (2019/10), (Oral). Acceptance rate TODO%.</p>
@@ -254,7 +254,7 @@
 
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Unseen Food Creation by Mixing Existing Food Images with Conditional StyleGAN</v-card-title>
+            <v-card-title class="content--work--title">[8] Unseen Food Creation by Mixing Existing Food Images with Conditional StyleGAN</v-card-title>
             <v-card-text>
               <p><u><b>Daichi Horita</b></u>, Keiji Yanai</p>
               <p>Proc. of ACMMM Workshop on Multimedia Assisted Dietary Management (MADIMA), Nice, France, (2019/10), (Oral).</p>
@@ -262,7 +262,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Large-scale Twitter Food Photo Mining and Its Applications</v-card-title>
+            <v-card-title class="content--work--title">[7] Large-scale Twitter Food Photo Mining and Its Applications</v-card-title>
             <v-card-text>
               <p>Keiji Yanai, Kaimu Okamoto, Tetsuya Nagano and <u><b>Daichi Horita</b></u></p>
               <p>Proc. of International Conference on Multimedia Big Data (BIGMM), Singapore, (2019/9), (invited paper).</p>
@@ -270,7 +270,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Enchanting Your Noodles: GAN-based Real-time Food-to-Food Translation and Its Impact on Vision-induced Gustatory Manipulation</v-card-title>
+            <v-card-title class="content--work--title">[6] Enchanting Your Noodles: GAN-based Real-time Food-to-Food Translation and Its Impact on Vision-induced Gustatory Manipulation</v-card-title>
             <v-card-text>
               <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
               <p>Proc. of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 1096-1097, Osaka, Japan, (2019/3) (poster).</p>
@@ -278,7 +278,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Enchanting Your Noodles: A Gustatory Manipulation Interface by Using GAN-based Real-time Food-to-Food Translation</v-card-title>
+            <v-card-title class="content--work--title">[5] Enchanting Your Noodles: A Gustatory Manipulation Interface by Using GAN-based Real-time Food-to-Food Translation</v-card-title>
             <v-card-text>
               <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
               <p>Proc. of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 1339-1340, Osaka, Japan, (2019/3) (demo).</p>
@@ -287,7 +287,7 @@
 
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Real-Time Image Classification and Transformation Apps on iOS by “Chainer2MPSNNGraph”</v-card-title>
+            <v-card-title class="content--work--title">[4] Real-Time Image Classification and Transformation Apps on iOS by “Chainer2MPSNNGraph”</v-card-title>
             <v-card-text>
               <p>Yuki Izumi, <u><b>Daichi Horita</b></u>, Ryosuke Tanno and Keiji Yanai</p>
               <p>Proc. of NIPS 2018 Workshop on Machine Learning on the Phone and other Consumer Devices (MLPCD), Motreal, Canada (2018/12).</p>
@@ -295,7 +295,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">CNN-based Photo Transformation for Improving Attractiveness of Ramen Photos</v-card-title>
+            <v-card-title class="content--work--title">[3] CNN-based Photo Transformation for Improving Attractiveness of Ramen Photos</v-card-title>
             <v-card-text>
               <p><u><b>Daichi Horita</b></u>, Jaehyeong Cho, Takumi Ege, Keiji Yanai</p>
               <p>Proc. of ACM Symposium on Virtual Reality Software and Technology (VRST), Tokyo, Japan, 115-116, (2018/11). (Poster paper).</p>
@@ -304,7 +304,7 @@
 
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Magical Rice Bowl: Real-time Food Category Changer</v-card-title>
+            <v-card-title class="content--work--title">[2] Magical Rice Bowl: Real-time Food Category Changer</v-card-title>
             <v-card-text>
               <p>Ryosuke Tanno, <u><b>Daichi Horita</b></u>, Wataru Shimoda and Keiji Yanai</p>
               <p>Proc. of ACM Multimedia, Seoul, Korea, 1244-1246, (2018/10). (Demo paper).</p>
@@ -312,7 +312,7 @@
           </v-card>
 
           <v-card class="content--work">
-            <v-card-title class="content--work--title">Food Category Transfer with Conditional Cycle GAN and a Large-scale Food Image Dataset</v-card-title>
+            <v-card-title class="content--work--title">[1] Food Category Transfer with Conditional Cycle GAN and a Large-scale Food Image Dataset</v-card-title>
             <v-card-text>
               <p><u><b>Daichi Horita</b></u>, Ryosuke Tanno, Wataru Shimoda and Keiji Yanai</p>
               <p>Proc. of IJCAI Workshop on International Workshop on Multimedia Assisted Dietary Management (MADIMA), Stockholm, Sweden (2018/07).</p>
