@@ -339,69 +339,68 @@
 
         <v-card>
           <h2 class="content--title">Medias</h2>
-        </v-card>
 
-        <v-layout justify-center class="content--publications" wrap>
+          <v-layout justify-center class="content--publications" wrap>
+          <table>
+            <v-card class="content--work">
+              <v-card-title class="content--work--title">[テレビ出演] NEWS ZERO よみうりテレビ</v-card-title>
+              <v-card-text>
+                <p>[Nakano+ IEEEVR2019]の研究成果についてテレビ出演を行い解説を行いました.</p>
+                <p>```河西歩果が電気通信大の堀田大地さんを取材、そうめんをAR技術で焼きそばの映像に変えた。さらにカレーに変えると白いご飯をカレーに感じた。```</p>
+                <p>2019年5月24日（金）23時30分～0時30分</p>
+              </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://tvtopic.goo.ne.jp/kansai/program/ytv/25518/822751/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Official Page</a>
+                </v-btn>
+              </v-card-actions>
+            </v-card>
 
-          <v-card class="content--work">
-            <v-card-title class="content--work--title">[テレビ出演] NEWS ZERO よみうりテレビ</v-card-title>
-            <v-card-text>
-              <p>[Nakano+ IEEEVR2019]の研究成果についてテレビ出演を行い解説を行いました.</p>
-              <p>```河西歩果が電気通信大の堀田大地さんを取材、そうめんをAR技術で焼きそばの映像に変えた。さらにカレーに変えると白いご飯をカレーに感じた。```</p>
-              <p>2019年5月24日（金）23時30分～0時30分</p>
-            </v-card-text>
-            <v-card-actions>
-              <v-spacer />
-              <v-btn
-                color="primary"
-                class="btn--project"
-              >
-                <a href="https://tvtopic.goo.ne.jp/kansai/program/ytv/25518/822751/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Official Page</a>
-              </v-btn>
-            </v-card-actions>
-          </v-card>
-
-          <v-card class="content--work">
-            <v-card-title class="content--work--title">[ラジオ出演] J-WAVE「STEP ONE」「炒飯のAR」を見て白米を食べると…炒飯の味に!?</v-card-title>
-            <v-card-text>
-              <p>[Nakano+ IEEEVR2019]の研究成果についてラジオ出演を行い解説を行いました.</p>
-              <p>2019年4月3日（水）9時00分～13時00分</p>
-              <p>（関連ニュースサイト）</p>
-              <p><a href="https://shiropen.com/seamless/enchanting-your-noodles" target="_blank" rel="noopener noreferrer" class="btn--projecthp">奈良先端科学技術大学院大学など、そうめんをラーメンに錯覚させるARとGANを組み合わせたリアルタイム味覚操作システムを発表。白ご飯が焼飯にも, Seamless, (2019/3)</a></p>
-              <p><a href="https://www.moguravr.com/ar-ramen-yakisoba/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">そうめんを食べるとラーメンや焼きそばの味 ARで錯覚を引き起こす, MoguraVR, (2019/3)</a></p>
-            </v-card-text>
-            <v-card-actions>
-              <v-spacer />
-              <v-btn
-                color="primary"
-                class="btn--project"
-              >
-                <a href="https://www.j-wave.co.jp/blog/news/2019/04/43-ar.html" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Official Page</a>
-              </v-btn>
-            </v-card-actions>
-          </v-card>
-
-
-          <v-card class="content--work">
-            <v-card-title class="content--work--title">[新聞掲載] 発掘！イグ・ノーベル賞（３７）電気通信大学　１杯のラーメンにかけるＡＩ</v-card-title>
-            <v-card-text>
-              <p>[Horita+ VRST2018]の研究成果についての記事が掲載されました.</p>
-              <p>2018年12月26日</p>
-            </v-card-text>
-            <v-card-actions>
-              <v-spacer />
-              <v-btn
-                color="primary"
-                class="btn--project"
-              >
-                <a href="https://www.nikkan.co.jp/articles/view/00500813" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Official Page</a>
-              </v-btn>
-            </v-card-actions>
-          </v-card>
+            <v-card class="content--work">
+              <v-card-title class="content--work--title">[ラジオ出演] J-WAVE「STEP ONE」「炒飯のAR」を見て白米を食べると…炒飯の味に!?</v-card-title>
+              <v-card-text>
+                <p>[Nakano+ IEEEVR2019]の研究成果についてラジオ出演を行い解説を行いました.</p>
+                <p>2019年4月3日（水）9時00分～13時00分</p>
+                <p>（関連ニュースサイト）</p>
+                <p><a href="https://shiropen.com/seamless/enchanting-your-noodles" target="_blank" rel="noopener noreferrer" class="btn--projecthp">奈良先端科学技術大学院大学など、そうめんをラーメンに錯覚させるARとGANを組み合わせたリアルタイム味覚操作システムを発表。白ご飯が焼飯にも, Seamless, (2019/3)</a></p>
+                <p><a href="https://www.moguravr.com/ar-ramen-yakisoba/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">そうめんを食べるとラーメンや焼きそばの味 ARで錯覚を引き起こす, MoguraVR, (2019/3)</a></p>
+              </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://www.j-wave.co.jp/blog/news/2019/04/43-ar.html" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Official Page</a>
+                </v-btn>
+              </v-card-actions>
+            </v-card>
 
 
+            <v-card class="content--work">
+              <v-card-title class="content--work--title">[新聞掲載] 発掘！イグ・ノーベル賞（３７）電気通信大学　１杯のラーメンにかけるＡＩ</v-card-title>
+              <v-card-text>
+                <p>[Horita+ VRST2018]の研究成果についての記事が掲載されました.</p>
+                <p>2018年12月26日</p>
+              </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://www.nikkan.co.jp/articles/view/00500813" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Official Page</a>
+                </v-btn>
+              </v-card-actions>
+            </v-card>
+          </table>
         </v-layout>
 
+        </v-card>
         </v-container>
       </section>
 
