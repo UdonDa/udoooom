@@ -343,7 +343,7 @@
           <v-layout justify-center class="content--publications" wrap>
           <table>
             <v-card class="content--work">
-              <v-card-title class="content--work--title">[テレビ出演] NEWS ZERO よみうりテレビ</v-card-title>
+              <v-card-title class="content--work--title">[テレビ出演] NEWS ZERO よみうりテレビ (2019/5/24)</v-card-title>
               <v-card-text>
                 <p>[Nakano+ IEEEVR2019]の研究成果についてテレビ出演を行い解説を行いました.</p>
                 <p>```河西歩果が電気通信大の堀田大地さんを取材、そうめんをAR技術で焼きそばの映像に変えた。さらにカレーに変えると白いご飯をカレーに感じた。```</p>
@@ -361,7 +361,7 @@
             </v-card>
 
             <v-card class="content--work">
-              <v-card-title class="content--work--title">[ラジオ出演] J-WAVE「STEP ONE」「炒飯のAR」を見て白米を食べると…炒飯の味に!?</v-card-title>
+              <v-card-title class="content--work--title">[ラジオ出演] J-WAVE「STEP ONE」「炒飯のAR」を見て白米を食べると…炒飯の味に!? (2019/4)</v-card-title>
               <v-card-text>
                 <p>[Nakano+ IEEEVR2019]の研究成果についてラジオ出演を行い解説を行いました.</p>
                 <p>2019年4月3日（水）9時00分～13時00分</p>
@@ -382,10 +382,11 @@
 
 
             <v-card class="content--work">
-              <v-card-title class="content--work--title">[新聞掲載] 発掘！イグ・ノーベル賞（３７）電気通信大学　１杯のラーメンにかけるＡＩ</v-card-title>
+              <v-card-title class="content--work--title">[新聞掲載] 発掘！イグ・ノーベル賞（３７）電気通信大学　１杯のラーメンにかけるＡＩ (2018/12)</v-card-title>
               <v-card-text>
                 <p>[Horita+ VRST2018]の研究成果についての記事が掲載されました.</p>
                 <p>2018年12月26日</p>
+                <p><a href="https://www.nikkan.co.jp/articles/view/00500813" target="_blank" rel="noopener noreferrer" class="btn--projecthp">発掘！イグ・ノーベル賞（３７）電気通信大学　１杯のラーメンにかけるＡＩ</a></p>
               </v-card-text>
               <v-card-actions>
                 <v-spacer />
