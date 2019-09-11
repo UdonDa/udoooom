@@ -28,15 +28,13 @@
 
       <section class="top--wrapper">
         <v-container>
-      <v-card
-        class="card"
-      >
-        <h2>About</h2>
+        <v-card>
+        <h2 class="content--title">About</h2>
 
         <v-card-text>
-
-          <v-layout justify-center>
+          <v-layout justify-center class="content--publications" wrap>
           <table>
+            <v-card class="content--work">
             <tr>
               <th class="content--tag">Name:</th>
               <th>Daichi Horita(堀田 大地)</th>
@@ -59,10 +57,10 @@
             </tr>
             <tr>
               <th class="content--tag">Email:</th>
-              <th>udooom0727[at]gmail.com</th>
+              <th>udooon0727[at]gmail.com</th>
             </tr>
+            </v-card>
           </table>
-          <!-- <hr class="my-3"> -->
           </v-layout>
         </v-card-text>
       </v-card>
@@ -71,32 +69,32 @@
 
       <section class="top--wrapper">
         <v-container>
+        <v-card>
+        <h2 class="content--title">Education</h2>
 
-        <v-card
-          class="card">
-          <h2>Education</h2>
-
-          <v-card-text>
-            <v-layout justify-center class="content--publications" wrap>
-              <table>
-                <tr>
-                  <th class="content--tag">2016-2020</th>
-                  <th>
-                    <table>
-                      <tr>
-                        <th>BE: Mechanical and Intelligent Systems Engineering, The University of Electro-Communications, Japan</th>
-                      </tr>
-                      <tr>
-                        <th>Adviser: <a href="https://scholar.google.com/citations?user=GfBhHw0AAAAJ&hl=ja" target="_blank" rel="noopener noreferrer">Prof. Keiji Yanai</a> and <a href="http://cluster-iperc.matrix.jp/wordpress/wp-content/uploads/2017/02/PI-CV-2017.pdf" target="_blank" rel="noopener noreferrer">Prof. Toma Sogabe</a>.</th>
-                      </tr>
-                    </table>
-                  </th>
-                </tr>
+        <v-card-text>
+          <v-layout justify-center class="content--publications" wrap>
+            <table>
+              <v-card class="content--work">
+              <tr>
+                <th class="content--tag">2016-2020</th>
+                <th>
+                  <table>
+                    <tr>
+                      <th>BE: Mechanical and Intelligent Systems Engineering, The University of Electro-Communications, Japan</th>
+                    </tr>
+                    <tr>
+                      <th>Adviser: <a href="https://scholar.google.com/citations?user=GfBhHw0AAAAJ&hl=ja" target="_blank" rel="noopener noreferrer">Prof. Keiji Yanai</a> and <a href="http://cluster-iperc.matrix.jp/wordpress/wp-content/uploads/2017/02/PI-CV-2017.pdf" target="_blank" rel="noopener noreferrer">Prof. Toma Sogabe</a>.</th>
+                    </tr>
+                  </table>
+                </th>
+              </tr>
+              </v-card>
 
 
-              </table>
-            </v-layout>
-          </v-card-text>
+            </table>
+          </v-layout>
+        </v-card-text>
         </v-card>
 
 
@@ -108,14 +106,14 @@
       <section class="top--wrapper">
         <v-container>
 
-        <v-card
-          class="card">
-          <h2>Research and Work Experience</h2>
+        <v-card>
+          <h2 class="content--title">Research and Work Experience</h2>
 
           <v-card-text>
             <v-layout justify-center class="content--publications" wrap>
               <table>
 
+                <v-card class="content--work">
                 <tr>
                   <th class="content--tag">2019/6 ~ 2020/3</th>
                   <th>
@@ -129,7 +127,9 @@
                     </table>
                   </th>
                 </tr>
+                </v-card>
 
+                <v-card class="content--work">
                 <tr>
                   <th class="content--tag">2018/9 ~ 2019/3</th>
                   <th>
@@ -146,7 +146,9 @@
                     </table>
                   </th>
                 </tr>
+                </v-card>
 
+                <v-card class="content--work">
                 <tr>
                   <th class="content--tag">2017/12 ~ 2018/4</th>
                   <th>
@@ -160,7 +162,9 @@
                     </table>
                   </th>
                 </tr>
+                </v-card>
 
+                <v-card class="content--work">
                 <tr>
                   <th class="content--tag">2017/5 ~ 2017/11</th>
                   <th>
@@ -174,7 +178,7 @@
                     </table>
                   </th>
                 </tr>
-
+                </v-card>
 
               </table>
             </v-layout>
@@ -192,18 +196,17 @@
       <section class="top--wrapper">
         <v-container>
 
-        <v-card
-          class="card">
-          <h2>Projects</h2>
-        </v-card>
+        <v-card>
+        <h2 class="content--title">Projects</h2>
 
+        <v-card-text>
         <v-layout justify-center class="content--publications" wrap>
           <v-card class="content--work">
-            <v-card-title class="content--work--title">未踏IT人材発掘・育成事業：2019年度採択プロジェクト</v-card-title>
-            <v-card-text>
-              <p>VR空間における食体験の構築</p>
-              <p><a href="https://twitter.com/signs0302" target="_blank" rel="noopener noreferrer">Kizashi Nakano</a>, <u><b>Daichi Horita</b></u>, Project manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Prof. Masahiko Inami</a></p>
-            </v-card-text>
+              <v-card-title class="content--work--title">未踏IT人材発掘・育成事業：2019年度採択プロジェクト</v-card-title>
+              <v-card-text>
+                <p>VR空間における食体験の構築</p>
+                <p><a href="https://twitter.com/signs0302" target="_blank" rel="noopener noreferrer">Kizashi Nakano</a>, <u><b>Daichi Horita</b></u>, Project manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Prof. Masahiko Inami</a></p>
+              </v-card-text>
             <v-card-actions>
               <v-spacer />
               <v-btn
@@ -221,6 +224,8 @@
             </v-card-actions>
           </v-card>
         </v-layout>
+        </v-card-text>
+        </v-card>
 
         </v-container>
       </section>
@@ -229,9 +234,8 @@
       <section class="top--wrapper">
         <v-container>
 
-        <v-card
-          class="card">
-          <h2>Publications</h2>
+        <v-card>
+          <h2 class="content--title">Publications</h2>
         </v-card>
 
         <v-layout justify-center class="content--publications" wrap>
@@ -326,9 +330,8 @@
       <section class="top--wrapper">
         <v-container>
 
-        <v-card
-          class="card">
-          <h2>Medias</h2>
+        <v-card>
+          <h2 class="content--title">Medias</h2>
         </v-card>
 
         <v-layout justify-center class="content--publications" wrap>
@@ -398,9 +401,8 @@
       <section class="top--wrapper">
         <v-container>
 
-        <v-card
-          class="card">
-          <h2>Awards</h2>
+        <v-card>
+          <h2 class="content--title">Awards</h2>
         </v-card>
 
         </v-container>
@@ -409,9 +411,8 @@
       <section class="top--wrapper">
         <v-container>
 
-        <v-card
-          class="card">
-          <h2>Hackathons</h2>
+        <v-card>
+          <h2 class="content--title">Hackathons</h2>
         </v-card>
 
         </v-container>
@@ -438,7 +439,7 @@ export default {
 .top--wrapper{
   margin:0;
 }
-.card{
+.content--title{
   /* width: 100%; */
   padding:30px 90px;
   text-align: center;
@@ -447,6 +448,9 @@ export default {
 .content--tag{
   padding-right:20px;
   font-weight:400;
+  vertical-align: middle;
+  line-height:normal;
+
 }
 
 .content--publications{
