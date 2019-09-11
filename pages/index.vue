@@ -124,7 +124,7 @@
                         <th>未踏IT人材発掘・育成事業：2019年度採択プロジェクト: VR空間における食体験の構築</th>
                       </tr>
                       <tr>
-                        <th>Project Manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Masahiko Inami</a></th>
+                        <th>Project Manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Prof. Masahiko Inami</a></th>
                       </tr>
                     </table>
                   </th>
@@ -141,7 +141,7 @@
                         <th>Skills: Python, Pytorch, Data visualization</th>
                       </tr>
                       <tr>
-                        Adviser: <a href="https://sites.google.com/view/hayatomaki" target="_blank" rel="noopener noreferrer">Hayato Maki</a>
+                        Adviser: <a href="https://sites.google.com/view/hayatomaki" target="_blank" rel="noopener noreferrer">Dr. Hayato Maki</a>
                       </tr>
                     </table>
                   </th>
@@ -202,7 +202,7 @@
             <v-card-title class="content--work--title">未踏IT人材発掘・育成事業：2019年度採択プロジェクト</v-card-title>
             <v-card-text>
               <p>VR空間における食体験の構築</p>
-              <p><a href="https://twitter.com/signs0302" target="_blank" rel="noopener noreferrer">Kizashi Nakano</a>, <u><b>Daichi Horita</b></u>, Project manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Masahiko Inami</a></p>
+              <p><a href="https://twitter.com/signs0302" target="_blank" rel="noopener noreferrer">Kizashi Nakano</a>, <u><b>Daichi Horita</b></u>, Project manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Prof. Masahiko Inami</a></p>
             </v-card-text>
             <v-card-actions>
               <v-spacer />
