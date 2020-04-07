@@ -41,7 +41,11 @@
             </tr>
             <tr>
               <th class="content--tag">Univ:</th>
-              <th>電気通信大学 柳井研究室 B4</th>
+              <th>M1: The University of Tokyo, Japan</th>
+            </tr>
+            <tr>
+              <th class="content--tag">Lab:</th>
+              <th><a href="http://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml" target="_blank" rel="noopener noreferrer">Aizawa Yamsaki Matsui Lab</a></th>
             </tr>
             <tr>
               <th class="content--tag">GitHub:</th>
@@ -81,16 +85,36 @@
                 <th>
                   <table>
                     <tr>
-                      <th>BE: Mechanical and Intelligent Systems Engineering, The University of Electro-Communications, Japan</th>
+                      <th>The University of Electro-Communications, Japan</th>
                     </tr>
                     <tr>
-                      <th>Adviser: <a href="https://scholar.google.com/citations?user=GfBhHw0AAAAJ&hl=ja" target="_blank" rel="noopener noreferrer">Prof. Keiji Yanai</a> and <a href="http://cluster-iperc.matrix.jp/wordpress/wp-content/uploads/2017/02/PI-CV-2017.pdf" target="_blank" rel="noopener noreferrer">Prof. Toma Sogabe</a>.</th>
+                      <th>Bachelor: Mechanical and Intelligent Systems Engineering</th>
+                    </tr>
+                    <tr>
+                      <th>Superviser: <a href="https://scholar.google.com/citations?user=GfBhHw0AAAAJ&hl=ja" target="_blank" rel="noopener noreferrer">Prof. Keiji Yanai</a> and <a href="http://cluster-iperc.matrix.jp/wordpress/wp-content/uploads/2017/02/PI-CV-2017.pdf" target="_blank" rel="noopener noreferrer">Prof. Toma Sogabe</a>.</th>
                     </tr>
                   </table>
                 </th>
               </tr>
               </v-card>
-
+              <v-card class="content--work">
+              <tr>
+                <th class="content--tag">2016-2020</th>
+                <th>
+                  <table>
+                    <tr>
+                      <th>The University of Tokyo</th>
+                    </tr>
+                    <tr>
+                      <th>Master: Graduate School of Interdisciplinary Information Studies</th>
+                    </tr>
+                    <tr>
+                      <th>Superviser: <a href="http://www.hal.t.u-tokyo.ac.jp/~aizawa/" target="_blank" rel="noopener noreferrer">Prof. Kiyoharu Aizawa</a></th>
+                    </tr>
+                  </table>
+                </th>
+              </tr>
+              </v-card>
 
             </table>
           </v-layout>
@@ -122,11 +146,36 @@
                         <th>未踏IT人材発掘・育成事業：2019年度採択プロジェクト: VR空間における食体験の構築</th>
                       </tr>
                       <tr>
+                        <th>The project of building the Food Experience on the VR World</th>
+                      </tr>
+                      <tr>
                         <th>Project Manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Prof. Masahiko Inami</a></th>
                       </tr>
                     </table>
                   </th>
                 </tr>
+                <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://signs0302.github.io/ukemochi/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Project Page</a>
+                </v-btn>
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_in-2.html" target="_blank" rel="noopener noreferrer" class="btn--projecthp">News</a>
+                </v-btn>
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://www.youtube.com/watch?v=LrWFN5Wc-GE&feature=youtu.be" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Presentation</a>
+                </v-btn>
+
+              </v-card-actions>
                 </v-card>
 
                 <v-card class="content--work">
@@ -189,10 +238,7 @@
         </v-container>
       </section>
 
-
-
-
-
+<!-- 
       <section class="top--wrapper">
         <v-container>
 
@@ -231,7 +277,7 @@
         </v-card>
 
         </v-container>
-      </section>
+      </section> -->
 
 
       <section class="top--wrapper">
@@ -537,7 +583,8 @@ export default {
 }
 
 .content--work--title{
-  font-size: 80%;
+  font-size: 105%;
+  font-weight: bolder;
 }
 .btn--projecthp{
   color: black;
