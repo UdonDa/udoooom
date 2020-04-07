@@ -1,5 +1,6 @@
 <template>
-  <v-app dark>
+  <!-- <v-app dark> -->
+  <v-app>
     <!-- TODO: header追加 -->
     <!-- <v-navigation-drawer
       v-model="drawer"
@@ -25,11 +26,11 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer> -->
-    <v-app-bar
+    <!-- <v-app-bar
       :clipped-left="clipped"
       fixed
       app
-    >
+    > -->
       <!-- <v-app-bar-nav-icon @click.stop="drawer = !drawer" /> -->
       <!-- <v-btn
         icon
@@ -49,15 +50,15 @@
       >
         <v-icon>mdi-minus</v-icon>
       </v-btn> -->
-      <!-- <v-toolbar-title v-text="title" /> -->
+      <!-- <v-toolbar-title v-text="title" />
       <v-spacer />
-      <!-- <v-btn
+      <v-btn
         icon
         @click.stop="rightDrawer = !rightDrawer"
       >
         <v-icon>mdi-menu</v-icon>
-      </v-btn> -->
-    </v-app-bar>
+      </v-btn>
+    </v-app-bar> -->
 
     <v-content>
       <v-container>
@@ -68,7 +69,7 @@
       :fixed="fixed"
       app
     >
-      <span>&copy; Daichi Horita 2019</span>
+      <span>&copy; Daichi Horita 2020</span>
     </v-footer>
   </v-app>
 </template>
