@@ -301,7 +301,7 @@
               <v-card-title class="content--work--title">[9] DeepTaste: Augmented Reality Gustatory Manipulation with GAN-based Real-time Food-to-food Translation</v-card-title>
               <v-card-text>
                 <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
-                <p>Proc. of IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Beijing, China, (2019/10), (Oral). Acceptance rate TODO%.</p>
+                <p>Proc. of IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Beijing, China, (2019/10), (Oral). Acceptance rate 22%.</p>
               </v-card-text>
             </v-card>
 
