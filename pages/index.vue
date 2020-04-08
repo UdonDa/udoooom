@@ -63,6 +63,14 @@
               <th class="content--tag">Email:</th>
               <th>udooon0727[at]gmail.com</th>
             </tr>
+            <tr>
+              <th class="content--tag">Research Area:</th>
+              <th>Computer Vision</th>
+            </tr>
+            <tr>
+              <th class="content--tag">Interests:</th>
+              <th>Weakly Supervised Learning<br>Semantic / Instance Segmentation<br>GANs</th>
+            </tr>
             </v-card>
           </table>
           </v-layout>
