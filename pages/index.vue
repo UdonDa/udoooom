@@ -45,7 +45,7 @@
             </tr>
             <tr>
               <th class="content--tag">Lab:</th>
-              <th><a href="http://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml" target="_blank" rel="noopener noreferrer">Aizawa Yamsaki Matsui Lab</a></th>
+              <th>Multimedia Processing Lab<br><a href="http://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml" target="_blank" rel="noopener noreferrer">(Aizawa Yamsaki Matsui Lab)</a></th>
             </tr>
             <tr>
               <th class="content--tag">GitHub:</th>
@@ -58,6 +58,10 @@
             <tr>
               <th class="content--tag">Blog:</th>
               <th><a href="http://udoooom.hatenablog.com/" target="_blank" rel="noopener noreferrer">udoooom's diary</a></th>
+            </tr>
+            <tr>
+              <th class="content--tag">Scholar:</th>
+              <th><a href="https://scholar.google.co.jp/citations?user=QaoQMGEAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar Link</a></th>
             </tr>
             <tr>
               <th class="content--tag">Email:</th>
@@ -387,19 +391,22 @@
         </v-container>
       </section>
 
+
+
       <section class="top--wrapper">
         <v-container>
 
         <v-card>
           <h2 class="content--title">Medias</h2>
 
+          <v-card-text>
           <v-layout justify-center class="content--publications" wrap>
           <table>
             <v-card class="content--work">
               <v-card-title class="content--work--title">3. [テレビ出演] NEWS ZERO よみうりテレビ (2019/5/24)</v-card-title>
               <v-card-text>
                 <p>[Nakano+ IEEEVR2019]の研究成果についてテレビ出演を行い解説を行いました.</p>
-                <p>```河西歩果が電気通信大の堀田大地さんを取材、そうめんをAR技術で焼きそばの映像に変えた。さらにカレーに変えると白いご飯をカレーに感じた。```</p>
+                <p>```河西歩果が電気通信大の堀田大地さんを取材、そうめんをAR技術で焼きそばの映像に変えた。<br>さらにカレーに変えると白いご飯をカレーに感じた。```</p>
                 <p>2019年5月24日（金）23時30分～0時30分</p>
               </v-card-text>
               <v-card-actions>
@@ -419,7 +426,7 @@
                 <p>[Nakano+ IEEEVR2019]の研究成果についてラジオ出演を行い解説を行いました.</p>
                 <p>2019年4月3日（水）9時00分～13時00分</p>
                 <p>（関連ニュースサイト）</p>
-                <p><a href="https://shiropen.com/seamless/enchanting-your-noodles" target="_blank" rel="noopener noreferrer" class="btn--projecthp">奈良先端科学技術大学院大学など、そうめんをラーメンに錯覚させるARとGANを組み合わせたリアルタイム味覚操作システムを発表。白ご飯が焼飯にも, Seamless, (2019/3)</a></p>
+                <p><a href="https://shiropen.com/seamless/enchanting-your-noodles" target="_blank" rel="noopener noreferrer" class="btn--projecthp">奈良先端科学技術大学院大学など、そうめんをラーメンに錯覚させるARとGANを組み合わせた<br>リアルタイム味覚操作システムを発表。白ご飯が焼飯にも, Seamless, (2019/3)</a></p>
                 <p><a href="https://www.moguravr.com/ar-ramen-yakisoba/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">そうめんを食べるとラーメンや焼きそばの味 ARで錯覚を引き起こす, MoguraVR, (2019/3)</a></p>
               </v-card-text>
               <v-card-actions>
@@ -453,7 +460,7 @@
             </v-card>
           </table>
         </v-layout>
-
+        </v-card-text>
         </v-card>
         </v-container>
       </section>
@@ -465,7 +472,7 @@
           <h2 class="content--title">Awards</h2>
           <v-card-text>
             <v-layout justify-center class="content--publications" wrap>
-              <table>
+              <table class='content--table'>
 
                 <v-card class="content--work">
                 <tr>
@@ -473,13 +480,13 @@
                   <th>
                     <table>
                       <tr>
-                        <th>Best Bachelor Thesis Award</th>
+                        <th class='underline'>Best Bachelor Thesis Award</th>
                       </tr>
                       <tr>
-                        <th>Department of Electronics, The University of Electro-Communications, Japan.</th>
+                        <th>The University of Electro-Communications, Japan.</th>
                       </tr>
                       <tr>
-                        <th>4 winners out of 40 student</th>
+                        <th>(4 winners out of 40 student)</th>
                       </tr>
                     </table>
                   </th>
@@ -492,13 +499,13 @@
                   <th>
                     <table>
                       <tr>
-                        <th>Best Student Award 2020</th>
+                        <th class='underline'>Best Student Award 2020 For Research</th>
                       </tr>
                       <tr>
-                        <th>For research, The University of Electro-Communications, Japan.</th>
+                        <th>The University of Electro-Communications, Japan.</th>
                       </tr>
                       <tr>
-                        <th>167 students are commended</th>
+                        <th>(167 students are commended)</th>
                       </tr>
                     </table>
                   </th>
@@ -511,13 +518,13 @@
                   <th>
                     <table>
                       <tr>
-                        <th>Best Student Award 2019</th>
+                        <th class='underline'>Best Student Award 2019 For Research</th>
                       </tr>
                       <tr>
-                        <th>For research, The University of Electro-Communications, Japan.</th>
+                        <th>The University of Electro-Communications, Japan.</th>
                       </tr>
                       <tr>
-                        <th>152 students are commended</th>
+                        <th>(152 students are commended)</th>
                       </tr>
                     </table>
                   </th>
@@ -572,10 +579,11 @@ export default {
 }
 
 .content--tag{
-  padding-right:20px;
-  font-weight:400;
+  /* padding-right: 20px; */
+  padding: 0px 20px;
+  font-weight: 400;
   vertical-align: middle;
-  line-height:normal;
+  line-height: normal;
 
 }
 
@@ -594,7 +602,17 @@ export default {
   font-size: 105%;
   font-weight: bolder;
 }
+
+.content--table{
+  text-align: center;
+}
+
 .btn--projecthp{
   color: black;
 }
+
+.underline {
+  text-decoration: underline;
+}
+
 </style>
