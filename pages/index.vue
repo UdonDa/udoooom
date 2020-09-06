@@ -159,6 +159,32 @@
               <table>
 
                 <v-card class="content--work">
+                <tr>
+                  <th class="content--tag">2020/9 ~ 2020/11</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>Research Internship at <a href="https://recruit-holdings.com/" target="_blank" rel="noopener noreferrer">Recruit Holdings Co.,Ltd.</a>, Tokyo, Japan.</th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+                </v-card>
+
+                <v-card class="content--work">
+                <tr>
+                  <th class="content--tag">2020/8 ~ 2020/9</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>Research Internship at <a href="https://preferred.jp/en/" target="_blank" rel="noopener noreferrer">Preferred Networks</a>, Tokyo, Japan.</th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+                </v-card>
+
+                <v-card class="content--work">
                   <tr>
                     <th class="content--tag">2019/6 ~ 2020/3</th>
                     <th>
@@ -167,7 +193,7 @@
                           <th>未踏IT人材発掘・育成事業：2019年度採択プロジェクト: VR空間における食体験の構築</th>
                         </tr>
                         <tr>
-                          <th>The project of building the Food Experience on the VR World</th>
+                          <th>Establishment of eating experiences in a VR space</th>
                         </tr>
                         <tr>
                           <th>Project Manager: <a href="https://twitter.com/drinami" target="_blank" rel="noopener noreferrer">Prof. Masahiko Inami</a></th>
@@ -424,7 +450,7 @@
                   color="primary"
                   class="btn--project"
                 >
-                  <a href="https://tvtopic.goo.ne.jp/kansai/program/ytv/25518/822751/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Official Page</a>
+                  <a href="https://tvtopic.goo.ne.jp/kansai/program/ytv/25518/822751/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">DETAIL</a>
                 </v-btn>
               </v-card-actions>
             </v-card>
@@ -437,16 +463,16 @@
                 <p>（関連ニュースサイト）</p>
                 <p><a href="https://shiropen.com/seamless/enchanting-your-noodles" target="_blank" rel="noopener noreferrer" class="btn--projecthp">奈良先端科学技術大学院大学など、そうめんをラーメンに錯覚させるARとGANを組み合わせた<br>リアルタイム味覚操作システムを発表。白ご飯が焼飯にも, Seamless, (2019/3)</a></p>
                 <p><a href="https://www.moguravr.com/ar-ramen-yakisoba/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">そうめんを食べるとラーメンや焼きそばの味 ARで錯覚を引き起こす, MoguraVR, (2019/3)</a></p>
-              </v-card-text>
-              <v-card-actions>
+                <v-card-actions>
                 <v-spacer />
                 <v-btn
                   color="primary"
                   class="btn--project"
                 >
-                  <a href="https://www.j-wave.co.jp/blog/news/2019/04/43-ar.html" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Official Page</a>
+                  <a href="https://www.j-wave.co.jp/blog/news/2019/04/43-ar.html" target="_blank" rel="noopener noreferrer" class="btn--projecthp">DETAIL</a>
                 </v-btn>
               </v-card-actions>
+              </v-card-text>
             </v-card>
 
 
@@ -463,7 +489,7 @@
                   color="primary"
                   class="btn--project"
                 >
-                  <a href="https://www.nikkan.co.jp/articles/view/00500813" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Official Page</a>
+                  <a href="https://www.nikkan.co.jp/articles/view/00500813" target="_blank" rel="noopener noreferrer" class="btn--projecthp">DETAIL</a>
                 </v-btn>
               </v-card-actions>
             </v-card>
@@ -482,6 +508,19 @@
           <v-card-text>
             <v-layout justify-center class="content--publications" wrap>
               <table class='content--table'>
+
+                <v-card class="content--work">
+                <tr>
+                  <th class="content--tag">2020/5</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th class='underline'><a href="https://www.meti.go.jp/english/press/2020/0528_002.html" target="_blank" rel="noopener noreferrer">Super Creator, IPA Exploratory Software</a></th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+                </v-card>
 
                 <v-card class="content--work">
                 <tr>
@@ -597,14 +636,14 @@ export default {
 }
 
 .content--publications{
-  /* background-color: */
+  /* background-color:red; */
 }
 
 .content--work{
   padding:20px 20px;
   margin: 10px 0;
   width: 100%;
-  box-shadow: 0 0 10px 0 rgba(255,255,255,.2);
+  box-shadow: 0 0 10px 0 rgba(200,255,255,.2);
 }
 
 .content--work--title{
