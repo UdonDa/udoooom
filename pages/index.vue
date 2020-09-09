@@ -331,25 +331,61 @@
 
         <v-card>
           <h2 class="content--title">Publications</h2>
+          <p class="content--explanation">All papers are peer-reviewed</p>
 
           <v-card-text>
           <v-layout justify-center class="content--publications" wrap>
             <table>
+            
+            <v-card class="content--work">
+              <v-card-title class="content--work--title">[11] Food Image Generation and Translation and Its Application to Augmented Reality</v-card-title>
+              <v-card-text>
+                <p>Keiji Yanai, <u><b>Daichi Horita</b></u>, Jaehyeong Cho</p>
+                <p>Proc. of IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2020.</p>
+              </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://ieeexplore.ieee.org/abstract/document/9175567" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
+            </v-card>
 
             <v-card class="content--work">
               <v-card-title class="content--work--title">[10] SSA-GAN: End-to-End Time-Lapse Video Generation with Spatial Self-Attention</v-card-title>
               <v-card-text>
                 <p><u><b>Daichi Horita</b></u>, Keiji Yanai</p>
-                <p>Proc. of The 5th Asian Conference on Pattern Recognition (ACPR), Auckland, New Zealand, (2019/11), (poster). Acceptance rate 45%.</p>
+                <p>Proc. of The 5th Asian Conference on Pattern Recognition (ACPR), 2019. Acceptance rate 45%.</p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="http://img.cs.uec.ac.jp/e/pub/conf19/191126horita_0.pdf" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
 
             <v-card class="content--work">
               <v-card-title class="content--work--title">[9] DeepTaste: Augmented Reality Gustatory Manipulation with GAN-based Real-time Food-to-food Translation</v-card-title>
               <v-card-text>
                 <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
-                <p>Proc. of IEEE International Symposium on Mixed and Augmented Reality (ISMAR) Beijing, China, (2019/10), (Oral). Acceptance rate 22%.</p>
+                <p>Proc. of IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2019. <u><b>Oral. Acceptance rate 22%.</b></u> </p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://ieeexplore.ieee.org/abstract/document/8943779" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
 
 
@@ -357,32 +393,68 @@
               <v-card-title class="content--work--title">[8] Unseen Food Creation by Mixing Existing Food Images with Conditional StyleGAN</v-card-title>
               <v-card-text>
                 <p><u><b>Daichi Horita</b></u>, Keiji Yanai</p>
-                <p>Proc. of ACMMM Workshop on Multimedia Assisted Dietary Management (MADIMA), Nice, France, (2019/10), (Oral).</p>
+                <p>Proc. of ACMMM Workshop on Multimedia Assisted Dietary Management (MADIMA), 2019. <u><b>Oral</b></u>.</p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://dl.acm.org/doi/10.1145/3347448.3357166" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
 
             <v-card class="content--work">
               <v-card-title class="content--work--title">[7] Large-scale Twitter Food Photo Mining and Its Applications</v-card-title>
               <v-card-text>
                 <p>Keiji Yanai, Kaimu Okamoto, Tetsuya Nagano and <u><b>Daichi Horita</b></u></p>
-                <p>Proc. of International Conference on Multimedia Big Data (BIGMM), Singapore, (2019/9), (invited paper).</p>
+                <p>Proc. of International Conference on Multimedia Big Data (BIGMM), pp77-85, 2019.</p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="http://img.cs.uec.ac.jp/pub/conf19/190911yanai_0.pdf" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
 
             <v-card class="content--work">
               <v-card-title class="content--work--title">[6] Enchanting Your Noodles: GAN-based Real-time Food-to-Food Translation and Its Impact on Vision-induced Gustatory Manipulation</v-card-title>
               <v-card-text>
                 <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
-                <p>Proc. of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 1096-1097, Osaka, Japan, (2019/3) (poster).</p>
+                <p>Proc. of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 2019.</p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="http://img.cs.uec.ac.jp/pub/conf19/190911yanai_0.pdf" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
 
             <v-card class="content--work">
               <v-card-title class="content--work--title">[5] Enchanting Your Noodles: A Gustatory Manipulation Interface by Using GAN-based Real-time Food-to-Food Translation</v-card-title>
               <v-card-text>
                 <p>Kizashi Nakano*, <u><b>Daichi Horita*</b></u>, Nobuchika Sakata, Kiyoshi Kiyokawa, Keiji Yanai, and Takuji Narumi <u><b>(*) equally contributed</b></u></p>
-                <p>Proc. of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 1339-1340, Osaka, Japan, (2019/3) (demo).</p>
+                <p>Proc. of IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 2019.</p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://ieeexplore.ieee.org/abstract/document/8798336" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
 
 
@@ -390,16 +462,34 @@
               <v-card-title class="content--work--title">[4] Real-Time Image Classification and Transformation Apps on iOS by “Chainer2MPSNNGraph”</v-card-title>
               <v-card-text>
                 <p>Yuki Izumi, <u><b>Daichi Horita</b></u>, Ryosuke Tanno and Keiji Yanai</p>
-                <p>Proc. of NIPS 2018 Workshop on Machine Learning on the Phone and other Consumer Devices (MLPCD), Motreal, Canada (2018/12).</p>
+                <p>Proc. of NIPS 2018 Workshop on Machine Learning on the Phone and other Consumer Devices (MLPCD), 2018.</p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://pdfs.semanticscholar.org/92b3/8606852456bee7f7683303bb18d701900e8f.pdf" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
 
             <v-card class="content--work">
-              <v-card-title class="content--work--title">[3] CNN-based Photo Transformation for Improving Attractiveness of Ramen Photos</v-card-title>
+              <v-card-title class="content--work--title">[3] Ramen Spoon Eraser: CNN-based Photo Transformation for Improving Attractiveness of Ramen Photos</v-card-title>
               <v-card-text>
                 <p><u><b>Daichi Horita</b></u>, Jaehyeong Cho, Takumi Ege, Keiji Yanai</p>
-                <p>Proc. of ACM Symposium on Virtual Reality Software and Technology (VRST), Tokyo, Japan, 115-116, (2018/11). (Poster paper).</p>
+                <p>Proc. of ACM Symposium on Virtual Reality Software and Technology (VRST), 2018.</p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="http://img.cs.uec.ac.jp/pub/conf18/181130horita_0.pdf" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
 
 
@@ -407,16 +497,34 @@
               <v-card-title class="content--work--title">[2] Magical Rice Bowl: Real-time Food Category Changer</v-card-title>
               <v-card-text>
                 <p>Ryosuke Tanno, <u><b>Daichi Horita</b></u>, Wataru Shimoda and Keiji Yanai</p>
-                <p>Proc. of ACM Multimedia, Seoul, Korea, 1244-1246, (2018/10). (Demo paper).</p>
+                <p>Proc. of ACM Multimedia, Seoul, Korea, pp1244-1246, 2018.</p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="http://img.cs.uec.ac.jp/pub/conf18/181023tanno_0.pdf" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
 
             <v-card class="content--work">
               <v-card-title class="content--work--title">[1] Food Category Transfer with Conditional Cycle GAN and a Large-scale Food Image Dataset</v-card-title>
               <v-card-text>
                 <p><u><b>Daichi Horita</b></u>, Ryosuke Tanno, Wataru Shimoda and Keiji Yanai</p>
-                <p>Proc. of IJCAI Workshop on International Workshop on Multimedia Assisted Dietary Management (MADIMA), Stockholm, Sweden (2018/07).</p>
+                <p>Proc. of IJCAI Workshop on International Workshop on Multimedia Assisted Dietary Management (MADIMA), pp67-70, 2018.</p>
               </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="http://img.cs.uec.ac.jp/pub/conf18/180715shimok_0.pdf" target="_blank" rel="noopener noreferrer" class="btn--projecthp">PDF</a>
+                </v-btn>
+              </v-card-actions>
             </v-card>
             </table>
 
@@ -450,7 +558,7 @@
                   color="primary"
                   class="btn--project"
                 >
-                  <a href="https://tvtopic.goo.ne.jp/kansai/program/ytv/25518/822751/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">DETAIL</a>
+                  <a href="https://tvtopic.goo.ne.jp/kansai/program/ytv/25518/822751/" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Press</a>
                 </v-btn>
               </v-card-actions>
             </v-card>
@@ -469,7 +577,7 @@
                   color="primary"
                   class="btn--project"
                 >
-                  <a href="https://www.j-wave.co.jp/blog/news/2019/04/43-ar.html" target="_blank" rel="noopener noreferrer" class="btn--projecthp">DETAIL</a>
+                  <a href="https://www.j-wave.co.jp/blog/news/2019/04/43-ar.html" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Press</a>
                 </v-btn>
               </v-card-actions>
               </v-card-text>
@@ -489,7 +597,7 @@
                   color="primary"
                   class="btn--project"
                 >
-                  <a href="https://www.nikkan.co.jp/articles/view/00500813" target="_blank" rel="noopener noreferrer" class="btn--projecthp">DETAIL</a>
+                  <a href="https://www.nikkan.co.jp/articles/view/00500813" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Press</a>
                 </v-btn>
               </v-card-actions>
             </v-card>
@@ -510,16 +618,25 @@
               <table class='content--table'>
 
                 <v-card class="content--work">
-                <tr>
-                  <th class="content--tag">2020/5</th>
-                  <th>
-                    <table>
-                      <tr>
-                        <th class='underline'><a href="https://www.meti.go.jp/english/press/2020/0528_002.html" target="_blank" rel="noopener noreferrer">Super Creator, IPA Exploratory Software</a></th>
-                      </tr>
-                    </table>
-                  </th>
-                </tr>
+                  <tr>
+                    <th class="content--tag">2020/5</th>
+                    <th>
+                      <table>
+                        <tr>
+                          <th>Super Creator, IPA Exploratory Software.</th>
+                        </tr>
+                      </table>
+                    </th>
+                  </tr>
+                  <v-card-actions>
+                      <v-spacer />
+                      <v-btn
+                        color="primary"
+                        class="btn--project"
+                      >
+                        <a href="https://www.meti.go.jp/english/press/2020/0528_002.html" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Press</a>
+                      </v-btn>
+                    </v-card-actions>
                 </v-card>
 
                 <v-card class="content--work">
@@ -626,6 +743,10 @@ export default {
   text-decoration: underline;
 }
 
+.content--explanation{
+  text-align: center;
+}
+
 .content--tag{
   /* padding-right: 20px; */
   padding: 0px 20px;
@@ -658,6 +779,7 @@ export default {
 .btn--projecthp{
   color: black;
 }
+
 
 .underline {
   text-decoration: underline;
