@@ -331,11 +331,27 @@
 
         <v-card>
           <h2 class="content--title">Publications</h2>
-          <p class="content--explanation">All papers are peer-reviewed</p>
 
           <v-card-text>
           <v-layout justify-center class="content--publications" wrap>
             <table>
+
+            <v-card class="content--work">
+              <v-card-title class="content--work--title">[12] SLGAN: Style- and Latent-guided Generative Adversarial Network for Desirable Makeup Transfer and Removal</v-card-title>
+              <v-card-text>
+                <p><u><b>Daichi Horita</b></u>, Kiyoharu Aizawa</p>
+                <p>ArXiv:2009.07557, 2020.</p>
+              </v-card-text>
+              <v-card-actions>
+                <v-spacer />
+                <v-btn
+                  color="primary"
+                  class="btn--project"
+                >
+                  <a href="https://arxiv.org/abs/2009.07557" target="_blank" rel="noopener noreferrer" class="btn--projecthp">Arxiv</a>
+                </v-btn>
+              </v-card-actions>
+            </v-card>
             
             <v-card class="content--work">
               <v-card-title class="content--work--title">[11] Food Image Generation and Translation and Its Application to Augmented Reality</v-card-title>
