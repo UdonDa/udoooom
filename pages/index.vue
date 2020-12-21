@@ -43,6 +43,13 @@
         <v-card-text>
           <v-layout justify-center class="content--publications" wrap>
           <table>
+            
+            <v-card class="content--work">
+            <h3 class="content--notable">
+                <a href="https://drive.google.com/file/d/1mgGfh05Ko9t2QUhSwQhL3JS9mWmIFOD3/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV is HERE!</a>
+              </h3>
+            </v-card>
+
             <v-card class="content--work">
             <tr>
               <th class="content--tag">Name:</th>
@@ -790,6 +797,13 @@ export default {
 
 .content--table{
   text-align: center;
+}
+
+.content--notable{
+  text-align: center;
+  font-size: 120%;
+  padding: 2px 5px;
+  margin: 2px 0;
 }
 
 .btn--projecthp{
