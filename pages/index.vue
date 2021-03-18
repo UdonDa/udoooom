@@ -167,6 +167,19 @@
 
                 <v-card class="content--work">
                 <tr>
+                  <th class="content--tag">2021/3 ~ Now</th>
+                  <th>
+                    <table>
+                      <tr>
+                        <th>Project Engineer at <a href="https://recruit-holdings.com/" target="_blank" rel="noopener noreferrer">Preferred Networks</a>, Tokyo, Japan.</th>
+                      </tr>
+                    </table>
+                  </th>
+                </tr>
+                </v-card>
+
+                <v-card class="content--work">
+                <tr>
                   <th class="content--tag">2020/9 ~ 2020/11</th>
                   <th>
                     <table>
