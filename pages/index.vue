@@ -53,15 +53,15 @@
             <v-card class="content--work">
             <tr>
               <th class="content--tag">Name:</th>
-              <th>Daichi Horita(堀田 大地)</th>
+              <th>Daichi Horita (堀田 大地)</th>
             </tr>
             <tr>
               <th class="content--tag">Univ:</th>
-              <th>M1: The University of Tokyo, Japan</th>
+              <th>The University of Tokyo, Japan<br>Master 2nd Year</th>
             </tr>
             <tr>
               <th class="content--tag">Lab:</th>
-              <th>Multimedia Processing Lab<br><a href="http://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml" target="_blank" rel="noopener noreferrer">(Aizawa Yamsaki Matsui Lab)</a></th>
+              <th>Multimedia Processing Lab<br><a href="http://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml" target="_blank" rel="noopener noreferrer">(Aizawa Lab)</a></th>
             </tr>
             <tr>
               <th class="content--tag">GitHub:</th>
@@ -171,7 +171,7 @@
                   <th>
                     <table>
                       <tr>
-                        <th>Project Engineer at <a href="https://recruit-holdings.com/" target="_blank" rel="noopener noreferrer">Preferred Networks</a>, Tokyo, Japan.</th>
+                        <th>Project Engineer at <a href="https://preferred.jp/en/" target="_blank" rel="noopener noreferrer">Preferred Networks</a>, Tokyo, Japan.</th>
                       </tr>
                     </table>
                   </th>
