@@ -46,7 +46,7 @@
             
             <v-card class="content--work">
             <h3 class="content--notable">
-                <a href="https://drive.google.com/file/d/1pTxv27FVlrsXGlkdUAnxAY5d-GYv0ZeP/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV is HERE!</a>
+                <a href="https://drive.google.com/file/d/1p2BbuaVeBvnRvTlkNCl1YD0iacUH_-Wo/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV is HERE!</a>
               </h3>
             </v-card>
 

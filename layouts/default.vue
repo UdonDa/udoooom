@@ -78,7 +78,7 @@
       :fixed="fixed"
       app
     >
-      <span>&copy; Daichi Horita 2020</span>
+      <span>&copy; Daichi Horita 2021, Last Update: 2021-07-06</span>
     </v-footer>
   </v-app>
 </template>
